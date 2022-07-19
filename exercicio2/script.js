@@ -1,0 +1,6 @@
+let  hamburguer = prompt ("Você gosta de hambúrguer?")
+let pastel= prompt ("Você gosta de pastel?")
+let camarao= prompt ("Você gosta de camarão?")
+console.log ("Você gosta de hambúrguer?",hamburguer)
+console.log ("Você gosta de pastel?",pastel)
+console.log ("Você gosta de camarão?", camarao)
